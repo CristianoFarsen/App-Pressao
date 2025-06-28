@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplicativoPressao</string>
+    <string name="bem_vindo_app_pressao">Bem-vindo ao Controle de Pressão!</string>
+    <string name="informe_pressao_sistolica_diastolica">Informe os valores de pressão sistólica e diastólica</string>
+    <string name="valores_pressao_invalidos">Valores de pressão inválidos</string>
+    <string name="valores_pressao_fora_faixa">Valores de pressão fora da faixa normal. Verifique.</string>
+    <string name="registro_pressao_salvo_sucesso">Registro de pressão salvo com sucesso!</string>
+    <string name="erro_salvar_registro_pressao">Erro ao salvar registro de pressão</string>
+    <string name="preencha_todos_os_campos">Preencha todos os campos</string>
+    <string name="login_efetuado_sucesso">Login efetuado com sucesso!</string>
+    <string name="email_senha_incorretos">Email ou senha incorretos</string>
+    <string name="usuario_cadastrado_sucesso">Usuário cadastrado com sucesso!</string>
+
+    <string name="registrar_pressao">Registrar Pressão</string>
+    <string name="historico">Histórico</string>
+    <string name="graficos">Gráficos</string>
+    <string name="lembretes">Lembretes</string>
+    <string name="sair">Sair</string>
+
+    <string name="pressao_sistolica_hint">Pressão Sistólica (ex: 120)</string>
+    <string name="pressao_diastolica_hint">Pressão Diastólica (ex: 80)</string>
+    <string name="observacoes_hint">Observações</string>
+    <string name="salvar_registro_pressao">Salvar Registro de Pressão</string>
+    <string name="lembretes_mensagem_inicial"><![CDATA[
+
+1. Alimentação saudável
+   - Reduzir o consumo de sal.
+   - Evitar alimentos ultraprocessados e ricos em gordura.
+   - Incluir frutas, verduras, legumes e grãos integrais.
+2. Prática regular de exercícios físicos
+   - Caminhadas, ciclismo, natação ou qualquer atividade aeróbica.
+   - Pelo menos 30 minutos por dia, 5 vezes por semana.
+3. Controle do peso corporal
+   - Manter o IMC (Índice de Massa Corporal) dentro da faixa saudável.
+4. Moderação no consumo de álcool
+   - Beber com moderação ou evitar totalmente.
+5. Não fumar
+   - O tabagismo aumenta o risco de hipertensão e doenças cardiovasculares.
+6. Controle do estresse
+   - Praticar atividades relaxantes como meditação, yoga ou técnicas de respiração.
+7. Acompanhamento médico regular
+   - Consultas periódicas para avaliar a pressão.
+   - Uso correto dos medicamentos prescritos.
+8. Monitoramento da pressão em casa
+   - Fazer medições frequentes e anotar os resultados.
+
+________________________________________
+
+Importância:
+Manter a pressão arterial controlada ajuda a evitar complicações graves como insuficiência cardíaca, derrames cerebrais e problemas renais.
+
+]]></string>
+
+
+
+
+</resources>
